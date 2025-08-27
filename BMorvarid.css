@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'B Morvarid';
+    src: url('https://cdn.jsdelivr.net/gh/aestheticcandyx/bmorvarid/BMorvarid.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/aestheticcandyx/bmorvarid/BMorvarid.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/aestheticcandyx/bmorvarid/BMorvarid.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'B Morvarid', sans-serif;
+}
